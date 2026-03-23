@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PartynoobAPI/PartynoobAPI.csproj" />
+  <Project Path="TestMod/TestMod.csproj" Id="2aab33b5-aa9d-4d2e-9708-9e0b6e585f4b" />
+</Solution>
